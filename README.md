@@ -1,0 +1,1 @@
+## Projeto Direcionado ara acessar urls com proxies fornecidos pelo site https://proxyscrape.com/free-proxy-list
